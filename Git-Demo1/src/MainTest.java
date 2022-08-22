@@ -4,6 +4,6 @@
  */
 public class MainTest {
     public static void main(String[] args) {
-        System.out.println("我很棒");
+        System.out.println("我很棒呀");
     }
 }
